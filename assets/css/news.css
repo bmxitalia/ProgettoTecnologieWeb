@@ -1,0 +1,51 @@
+.otherText {
+	display: none;
+}
+
+.newsArticle {
+	min-height: 25em;
+	background-color: #efefef;
+	margin: auto;
+	margin-bottom: 1em;
+	min-width: 12.5em;
+}
+
+.newsArticle p {
+	font-size: 1.1em;
+}
+
+.newsImg {
+	width: 100%;
+}
+
+.newsTitle {
+	color: black;
+}
+
+.captionImg {
+	color: black;
+	font-style: italic;
+	font-size: 90%;
+	margin-top: 0em;
+}
+
+.imgAndCaption { /* div */
+	float: left;
+	height: 38%;
+	width: 40%;
+	margin: 0em 1em 0em 0em;
+	min-height: 11em;
+	min-width: 12.5em;
+}
+
+#bottonePagina {
+	display: block;
+}
+
+.showButton {
+	display: none;
+}
+
+.linkArticolo {
+	padding: 1em;
+}

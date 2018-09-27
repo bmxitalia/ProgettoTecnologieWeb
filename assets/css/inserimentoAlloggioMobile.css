@@ -1,0 +1,23 @@
+@media screen and (max-width: 500px) {
+	.gestioneAlloggi {
+		width: 80%;
+		min-width: 12.5em;
+	}
+
+	.inputField {
+		height: 1.5em;
+	}
+
+	.gestioneAlloggi {
+		font-size: 1.1em;
+	}
+
+	.alert {
+		width: 80%;
+		padding-left: 1%;
+		margin-bottom: 1em;
+		border: 1px solid transparent;
+		border-radius: .25em;
+		margin-bottom: 2%; 
+	}
+}

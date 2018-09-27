@@ -1,0 +1,62 @@
+/* TABLET */
+@media screen and (max-width: 979px)  {
+
+	.rounded-container {
+		width: 80%;
+		min-width: 12.5em;
+		margin: auto;
+	}
+
+	.inputField {
+		height: 2em;
+	}
+
+	#formContatti {
+		font-size: 1em;
+	}
+
+	.alert {
+		width: 80%;
+		padding-left: 1%;
+		margin-bottom: 1em;
+		border: 1px solid transparent;
+		border-radius: .25em;
+		margin-bottom: 2%; 
+	}
+}
+
+/* SMARTPHONE */
+@media screen and (max-width: 500px) {
+	.rounded-container {
+		width: 90%;
+		min-width: 12.5em;
+		margin: auto;
+	}
+
+	h2{
+		font-size: 1.5em;
+	}
+
+	.field-group {
+		margin-left: 2%;
+		margin-right: 2%;
+	}
+
+	.inputField {
+		height: 2em;
+	}
+
+
+	#formContatti {
+		font-size: 1.1em;
+	}
+
+	.alert {
+		width: 80%;
+		padding-left: 1%;
+		margin-bottom: 1em;
+		border: 1px solid transparent;
+		border-radius: .25em;
+		margin-bottom: 2%; 
+	}
+}

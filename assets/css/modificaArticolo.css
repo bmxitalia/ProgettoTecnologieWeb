@@ -1,0 +1,42 @@
+.rounded-container {
+	text-align: center;
+}
+
+#formModificaArticolo fieldset {
+	border: none;
+}
+
+#div-field{
+	width: 100%;
+	margin-top: 3%;
+}
+
+.field-group {
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+.labelField {
+	display: block;
+	font-size: 1.1em;
+	text-align: left;
+	margin-bottom: 1%;
+}
+
+.inputField {
+	width: 100%;
+	height: 30px;
+	margin-bottom: 1.5%;
+}
+
+.selectField {
+	text-align: left;
+	margin-bottom: 1.5%;
+}
+
+.field-group textarea {
+	width: 100%;
+	height: 100px;
+	margin-bottom: 1.5%;
+	resize: none;
+}

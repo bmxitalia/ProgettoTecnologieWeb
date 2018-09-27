@@ -1,0 +1,7 @@
+.rounded-container img {
+	display: none;
+}
+
+.rounded-container {
+	min-height: 5em !important;
+}

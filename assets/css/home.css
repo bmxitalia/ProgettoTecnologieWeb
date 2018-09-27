@@ -1,0 +1,47 @@
+#homeSlider {
+	margin-top: 1em;
+}
+
+#homeSlider img {
+	height: 10%;
+	max-height: 35em;
+    width: 100%;
+}
+
+#eventDescription {
+	font-size: 1.5em;
+}
+
+#sponsorList {
+	text-align: center;
+	width: 100%;
+}
+
+#sponsorList .title {
+	font-size: 1.5em;
+	font-weight: bold;
+}
+
+#sponsorList a {
+	margin-left: 2em;
+	text-decoration: none;
+}
+
+#sponsorList h2 {
+	margin: 0;
+}
+
+/* BIG TABLET */
+@media screen and (max-width: 1300px)  {
+	#homeSlider img {
+		height: 7%;
+	}
+
+	#sponsorList a {
+		margin-left: .5em;
+	}
+
+	#sponsorList img {
+		width: 20%;
+	}
+}

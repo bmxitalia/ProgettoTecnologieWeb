@@ -1,0 +1,42 @@
+.container h1 {
+	text-align: center;
+}
+
+#formContatti {
+	width: 100%;
+	text-align: center;
+}
+
+#formContatti fieldset {
+	border: none;
+}
+
+#div-field {
+	width: 100%;
+	margin-top: 3%;
+}
+
+.field-group {
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+.labelField {
+	display: block;
+	text-align: left;
+	margin-bottom: 1%;
+    font-size: 1.25em;
+}
+
+.inputField {
+	width: 100%;
+	height: 30px;
+	margin-bottom: 1.5%;
+}
+
+.field-group textarea {
+	width: 100%;
+	height: 100px;
+	margin-bottom: 1.5%;
+	resize: none;
+}

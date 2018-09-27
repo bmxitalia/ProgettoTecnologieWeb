@@ -1,0 +1,41 @@
+@media screen and (max-width: 979px) {
+	#rounded-container {
+		width: 100%;
+	}
+
+	#rounded-container h1 {
+		text-align: center;
+	}
+
+	.div-alloggio {
+		min-height: 15em;
+	}
+
+	.img-alloggio {
+		width: 30%;
+		height: 30%;
+	}
+}
+
+@media screen and (max-width: 500px) {
+
+	#rounded-container {
+		width: 100%;
+	}
+
+	#rounded-container h1 {
+		text-align: center;
+	}
+
+	.div-alloggio {
+		min-height: 10em;
+	}
+
+	.img-alloggio {
+		display: none;
+	}
+
+	.ul-info {
+		margin: 0;
+	}
+}

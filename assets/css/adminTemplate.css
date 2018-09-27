@@ -1,0 +1,78 @@
+/* COLORS:
+
+	blue: #0084ff;
+	red:  #F03434;
+	gray: #efefef;
+	yellow: #F1CB49;
+	yellow link: #E7BD32;
+
+*/
+
+/* MENU */
+
+.navbar {
+    background: #F1CB49;
+}
+
+.nav {
+	width: 55em;
+}
+
+.nav li a {
+    width: 10.5em;
+    color: black;
+}
+
+.nav li.active a {
+	color: white;
+}
+
+.nav li:hover a {
+	color: white;
+}
+
+/* END MENU */
+
+/* CONTAINER */
+
+.container {
+	min-height: 35em;
+}
+
+.button-container {
+	text-align: center;
+	font-size: 1.5em;
+}
+
+/* END CONTAINER */
+
+/* ELEMENTS */
+
+.table {
+	border-radius: 20px;
+	background-color: white;
+	margin: auto;
+	border-collapse: collapse;
+	border-style: hidden;
+	font-size: 1.2em;
+}
+
+.table td,th {
+	padding: 1em;
+}
+
+.table th {
+	text-align: left;
+}
+
+.table tbody tr:nth-child(odd){
+  background-color: inherit;
+}
+
+/* END ELEMENTS */
+
+/* FOOTER */
+
+
+
+/* END FOOTER */

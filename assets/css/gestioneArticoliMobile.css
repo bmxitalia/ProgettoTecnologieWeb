@@ -1,0 +1,11 @@
+@media screen and (max-width: 500px) {
+	#HotelTable {
+		width: 80%;
+		min-width: 12.5em;
+	}
+
+	.gestioneArticoli {
+		width: 80%;
+		min-width: 12.5em;
+	}
+}

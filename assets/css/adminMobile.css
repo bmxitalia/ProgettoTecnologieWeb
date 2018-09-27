@@ -1,0 +1,60 @@
+/* BIG TABLET */
+@media screen and (max-width: 1300px)  {
+
+}
+
+/* TABLET */
+@media screen and (max-width: 979px)  {
+	.nav.responsive li {
+		background: #F1CB49;
+	}
+}
+
+/* SMALL TABLET */
+@media screen and (max-width: 620px) {
+	.button-container a{
+		width: 94%;
+	    float: left;
+	    height: 1.5em;
+	    margin-bottom: .2em;
+	}
+
+	.table thead th {
+		font-size: 1em;
+	}
+
+	.table thead td {
+		font-size: .8em;
+	}
+
+	.table td, .table th {
+		padding: .7em;
+	}
+}
+
+/* SMARTPHONE */
+@media screen and (max-width: 500px) {
+	.header .title .subscribe-button {
+		margin-top: .5em;
+	}
+	.button-container a{
+		width: 94%;
+			float: left;
+			height: 1.5em;
+			margin-bottom: .2em;
+			font-size: .6em;
+	}
+
+	.table thead th {
+		font-size: .6em;
+	}
+
+	.table thead td {
+		font-size: .6em;
+	}
+
+	.table td, .table th {
+		font-size: .6em;
+		padding: .5em;
+	}
+}

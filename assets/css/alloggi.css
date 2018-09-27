@@ -1,0 +1,29 @@
+.rounded-container {
+	margin: auto;
+	margin-bottom: 1em;
+	min-width: 12.5em;
+	min-height: 15em;
+}
+
+.img-alloggio {
+	float: left;
+	width: 30%;
+	height: 30%;
+}
+
+.rounded-container h1 {
+	text-align: center;
+}
+
+.div-alloggio h2 {
+	text-align: center;
+	margin: 0;
+}
+
+.ul-info {
+	margin-left: 30%;
+}
+
+hr {
+	margin-bottom: 2em;
+}

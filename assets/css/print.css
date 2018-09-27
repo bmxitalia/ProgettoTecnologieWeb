@@ -1,0 +1,31 @@
+/* IMPORT FONT FOR PRINT */
+
+.navbar, .subscribe-button, #homeSlider, .to-top-anchor, .breadcrumb li a::after {
+	display: none;
+}
+
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+
+.footer {
+	display: none;
+}
+
+/* Cose aggiunte*/
+
+.header .title {
+	font-family: 'Open Sans', sans-serif;
+}
+
+.header .logo {
+	display: none;
+}
+
+.header h2 {
+	font-family: 'Open Sans', sans-serif;
+}
+
+.btn-black, .btn-red {
+	border: 1px solid black;
+}

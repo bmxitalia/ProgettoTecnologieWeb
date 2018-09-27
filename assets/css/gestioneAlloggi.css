@@ -1,0 +1,12 @@
+#insertButton {
+	display: block;
+	width: 7em;
+	height: 1.5em;
+	text-align: center;
+	margin: auto;
+	margin-bottom: 1em;
+}
+
+#op {
+	text-align: center;
+}

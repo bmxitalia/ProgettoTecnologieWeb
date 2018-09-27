@@ -1,0 +1,39 @@
+/**TABLET*/
+@media screen and (max-width: 979px)  {
+
+}
+
+@media screen and (max-width: 620px) {
+  #submitMaratona {
+    margin-top: 2%;
+  }
+}
+
+/* SMARTPHONE */
+@media screen and (max-width: 500px) {
+  .pagination li{
+  	padding:0.5em;
+  	border:0.6px solid white;
+  	border-collapse:collapse;
+  	background-color: black;
+  	display:inline;
+  }
+
+  #tabellaMaratona {
+    width: 90%;
+  }
+
+  #submitMaratona {
+    margin-top: 2%;
+  }
+
+  .pagination li.li-active a {
+  	color:black;
+  }
+  .pagination li.li-active{
+  	background-color: #F1CB49;
+  }
+  .pagination li.li-disabled{
+  	display:none;
+  }
+}

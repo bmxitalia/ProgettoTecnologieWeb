@@ -1,0 +1,39 @@
+/* TABLET */
+@media screen and (max-width: 979px)  {
+	
+}
+
+/* SMARTPHONE */
+@media screen and (max-width: 500px) {
+	.imgPercorso {
+		display: none;
+	}
+
+	.info h1 {
+		font-size: 1em;
+	}
+
+	#leftMarathonType {
+		float: none;
+		margin-bottom: 1em;
+	}
+
+	#rightMarathonType {
+		margin: auto;
+	}
+
+	.info {
+		min-width: 12em;
+	}
+
+	.marathonType {
+		width: 85%;
+		min-height: 0em;
+		margin: auto;
+	}
+
+	.tabella {
+		font-size: 0.5em;
+	}
+
+}

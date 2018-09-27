@@ -1,0 +1,17 @@
+/* SMALL TABLET */
+@media screen and (max-width: 620px) {
+	.imgAndCaption {
+		display: none;
+	}
+
+	.newsArticle {
+		min-height: 7em;
+	}
+}
+
+/* SMARTPHONE */
+@media screen and (max-width: 500px) {
+	.newsTitle {
+		font-size: 1.5em;
+	}
+}

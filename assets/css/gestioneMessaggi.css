@@ -1,0 +1,32 @@
+.rounded-container h1 {
+	text-align: center;
+}
+
+.messagesTable {
+	border-radius: 20px;
+	background-color: white;
+	margin: auto;
+	margin-top: 1em;
+	border-collapse: collapse;
+	border-style: hidden;
+	margin-bottom: 1em;
+}
+
+.messagesTable td,th {
+	padding: 1em;
+	text-align: center;
+}
+
+.rounded-container .alert {
+	width: 80%;
+}
+
+#op {
+	text-align: center;
+}
+
+@media screen and (max-width: 500px) {
+	.messagesTable {
+		width:90%;
+	}
+}

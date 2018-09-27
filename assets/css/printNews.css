@@ -1,0 +1,11 @@
+.otherText {
+	display: inline !important;
+}
+
+.newsArticleDesc, .linkMostra, .showButton {
+	display: none !important;
+}
+
+.imgAndCaption {
+	display: none;
+}

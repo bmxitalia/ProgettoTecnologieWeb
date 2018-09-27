@@ -1,0 +1,53 @@
+.gestioneArticoli {
+	background-color: #efefef;
+	margin: auto;
+	margin-bottom: 1em;
+	padding: 1.5em;
+	min-width: 25em;
+}
+
+.gestioneArticoli h1{
+	text-align: center;
+	color: black;
+}
+
+.articleTable {
+	border-radius: 20px;
+	background-color: white;
+	margin: auto;
+	border-collapse: collapse;
+	border-style: hidden;
+	margin-bottom: 1em;
+}
+
+.articleTable td,th {
+	padding: 1em;
+	border: 1px solid #0084ff;
+}
+
+.articleTable th {
+	text-align: left;
+}
+
+.btn-black {
+	padding: 0.5em;
+}
+
+
+#insertButton {
+	display: block;
+	height: 1.5em;
+	width: 7em;
+	text-align: center;
+	margin: auto;
+	margin-bottom: 1em;
+}
+
+.error {
+	text-align: center;
+	color: red;
+}
+
+#op {
+	text-align: center;
+}
